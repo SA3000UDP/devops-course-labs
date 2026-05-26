@@ -3,7 +3,7 @@
   "sa_login": "SA3000UDP",
   "sa_mail": "pravdin.web@gmail.com",
   "timeout": 450,
-  "poll_interval": 15,
+  "poll_interval": 25,
   "users": [
     {
       "login": "Ke1tas",
